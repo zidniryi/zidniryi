@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zidniryi&show_icons=true)
 
 <!--
 **zidniryi/zidniryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
