@@ -1,5 +1,5 @@
 
-### Hellow World <𝚌𝚘𝚍𝚎/>
+### Hello World <𝚌𝚘𝚍𝚎/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/ZidniRidwanNulmuarif-blue?style=social&logo=Linkedin&logoColor=blue&link=https://id.linkedin.com/in/zidni-ridwan-nulmuarif/)](https://id.linkedin.com/in/zidni-ridwan-nulmuarif/) 
