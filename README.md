@@ -2,9 +2,13 @@
 ### Hello World <𝚌𝚘𝚍𝚎/>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/ZidniRidwanNulmuarif-blue?style=social&logo=Linkedin&logoColor=blue&link=https://id.linkedin.com/in/zidni-ridwan-nulmuarif/)](https://id.linkedin.com/in/zidni-ridwan-nulmuarif/) 
-[![GitHub followers](https://img.shields.io/github/followers/zidniryi?label=Follow&style=social)](https://github.com/zidniryi/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-zidniryi-blue?style=social&logo=Instagram&link=https://www.instagram.com/zidniryi/)](https://www.instagram.com/zidniryi/)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zidni-ridwan-nulmuarif-363923128/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://zidniryi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Zidniryi)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zidniryi)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/zidniryi)
 
 
 
