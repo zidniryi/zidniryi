@@ -7,6 +7,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-zidniryi-blue?style=social&logo=Instagram&link=https://www.instagram.com/zidniryi/)](https://www.instagram.com/zidniryi/)
 
 
+
+
+
+![carbon](https://raw.githubusercontent.com/zidniryi/zidniryi/master/assets/me_code.png)
+
 📈 **My GitHub Stats:**
 
 <p>
@@ -14,7 +19,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidniryi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-
-![carbon](https://raw.githubusercontent.com/zidniryi/zidniryi/master/assets/me_code.png)
 
