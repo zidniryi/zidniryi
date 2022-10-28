@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zidniryi)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/zidniryi)
 
-
+[![@zidniryi's Holopin board](https://holopin.me/zidniryi)](https://holopin.io/@zidniryi)
 
 
 
