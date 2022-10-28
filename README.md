@@ -14,7 +14,7 @@
 
 
 
-![carbon](https://raw.githubusercontent.com/zidniryi/zidniryi/master/assets/me_code.png)
+<!-- ![carbon](https://raw.githubusercontent.com/zidniryi/zidniryi/master/assets/me_code.png) -->
 
 📈 **My GitHub Stats:**
 
