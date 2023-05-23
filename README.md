@@ -16,6 +16,8 @@
 
 <!-- ![carbon](https://raw.githubusercontent.com/zidniryi/zidniryi/master/assets/me_code.png) -->
 
+<a href="https://app.daily.dev/zidniryi"><img src="https://api.daily.dev/devcards/f2c726bf130c4d1a85bd9a6666ac11e8.png?r=ukm" width="400" alt="zidniryi's Dev Card"/></a>
+
 📈 **My GitHub Stats:**
 
 <p>
