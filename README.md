@@ -1,7 +1,15 @@
 
 ### Hello World <𝚌𝚘𝚍𝚎/>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zidniryi"
+  width="600"
+  height="300"
+/>
+</a>
 
+### Hello World <𝚌𝚘𝚍𝚎/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zidni-ridwan-nulmuarif-363923128/)
